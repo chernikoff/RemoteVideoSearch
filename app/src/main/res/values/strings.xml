@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RemoteVideoSearch</string>
+    <string name="search_label">Remote Video Search</string>
+    <string name="search_hint">Remote Video Search</string>
 </resources>
